@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joe-garner.github.io/sitemap.xml
